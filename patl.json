@@ -1,0 +1,20 @@
+{
+    ".gitignore": null,
+    ".patlignore": null,
+    "patl.json": null,
+    "quotes": {
+        "__init__.py": null,
+        "items.py": null,
+        "middlewares.py": null,
+        "models.py": null,
+        "pipelines.py": null,
+        "settings.py": null,
+        "spiders": {
+            "__init__.py": null,
+            "quote.py": null
+        }
+    },
+    "quotes.db": null,
+    "quotes.json": null,
+    "scrapy.cfg": null
+}

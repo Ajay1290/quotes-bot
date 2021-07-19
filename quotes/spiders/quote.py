@@ -7,8 +7,8 @@ class QuoteSpider(scrapy.Spider):
     name = 'quote'
     allowed_domains = ['goodreads.com']
     start_urls = [
-        # 'https://www.goodreads.com/quotes',
-        # 'https://www.goodreads.com/quotes/tag/life',
+        'https://www.goodreads.com/quotes',
+        'https://www.goodreads.com/quotes/tag/life',
         'https://www.goodreads.com/quotes/tag/time',
         'https://www.goodreads.com/quotes/tag/death'
     ]
